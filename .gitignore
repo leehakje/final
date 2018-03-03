@@ -1,3 +1,6 @@
+.metadata/
+.recommenders/
+.metadata/*
 .metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log
 .metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.markers.snap
 .metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.syncinfo.snap
